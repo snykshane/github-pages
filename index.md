@@ -6,7 +6,7 @@ title: A secret place on the internet
 
 > The beautiful thing about learning is nobody can take it away from you. -BB King
 
-####Shane's things to do before the year is over.
+#### Shane's things to do before the year is over.
 - [x] Have a baby
 - [x] Create something cool
 - [ ] Become the greatest I can be. 
